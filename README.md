@@ -6,4 +6,4 @@ This project contains:
 - "datasets/" : raw and processed data
 - "notebooks/" : Jupiter notebooks
 - "pyfiles/" : Python scripts
-- "docs/" : docummentation
+- "docs/" : documentation
