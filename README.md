@@ -1,6 +1,7 @@
 # TCnns-tabImputation
 Deep learning approach for missing values imputation
 # My Project
+To find our technique notebook file: "notebooks/OurTechnique.ipynb"
 
 This project contains:
 - "datasets/" : raw and processed data
